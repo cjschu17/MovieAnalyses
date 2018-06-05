@@ -19,7 +19,7 @@ Dumbo
 Casablanca
 The Magnificent Ambersons
 Shadow of A Doubt
-The Ox-Bow Incident 
+The Ox-Bow Incident
 Double Indemnity
 The Clock
 The Yearling
@@ -111,7 +111,6 @@ High Anxiety
 Grease
 Jaws 2
 Halloween
-Animal House
 Alien
 Kramer v. Kramer
 Apocalypse Now
@@ -580,7 +579,7 @@ Dear White People
 Wild
 Nightcrawler
 X-Men: Days Of Future Past
-Ex Machina 
+Ex Machina
 Mad Max
 Pitch Perfect 2
 Jurassic World
